@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RemmieAndroidModule</string>
+    <string name="start_server">Start Server</string>
+</resources>

@@ -1,0 +1,2 @@
+app/gst-android-build/arm64-v8a/libgstreamer_android.so filter=lfs diff=lfs merge=lfs -text
+app/src/main/gst-android-build/arm64-v8a/libgstreamer_android.so filter=lfs diff=lfs merge=lfs -text
