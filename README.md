@@ -66,17 +66,4 @@
 ## Manifest
 - add INTERNET Permissions
 
-## Tutorial2.java
-- convert Tutorial2.java to Kotlin
-  - add below code in Tutorial2.kt
-    -   
-     - companion object {
-     - @JvmStatic
-     - external fun nativeClassInit(): Boolean
-     - init {
-     - System.loadLibrary("gstreamer_android")
-     - System.loadLibrary("tutorial-2")
-     - nativeClassInit()
-     - }
-     - }
 # RemmieAndroidModule
